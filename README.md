@@ -5,11 +5,13 @@ A beautiful and simple tool to bring your pixel art to life or edit your existin
 
 it has alot of feautres :
 
-Live Preview: See your project in real time at the bottom.it is very useful feature!
-Import/Export: Import your old artwork or export your creations.
-Multiple Grid Sizes: Choose from a range of grid sizes to suit your needs.
-alot of tools to help you create beautiful arts easily and effortlessly ✨
+1 - Live Preview: See your project in real time at the bottom.it is very useful feature!
+
+2 - Import/Export: Import your old artwork or export your creations.
+3 - Multiple Grid Sizes: Choose from a range of grid sizes to suit your needs.
+4 - alot of tools to help you create beautiful arts easily and effortlessly ✨
 like Erase, Fill, Line Tool, Rectangle, and Mirroring.
+
 Want to give it a try?
 here is the link :https://kokojkj.github.io/pixel-art-studio/
 
